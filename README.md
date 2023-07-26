@@ -22,7 +22,7 @@ Konnichiwa Senpai, I am "Pasindu" an Opensource WhatsApp bot made by <a href="ht
 </h4>
 
 <p align="center" >
-    <a href="https://repl.it/github.com/pasindu12345678/Mine-Bota">
+    <a href="https://repl.it/github.com/CyberSamuZaX/DarkSamuZa_V4">
     <img src="https://i.imgur.com/laCBxna.png" width="170px" alt="Deploy on Heroku" >
     </a>
     <br>     
@@ -62,7 +62,7 @@ Konnichiwa Senpai, I am "Pasindu" an Opensource WhatsApp bot made by <a href="ht
 </p>
 
 <p align="center" >
-    <a href="https://dashboard.heroku.com/new?button-url=https://github.com/pasindu12345678/Mine-Bota&template=https://github.com/pasindu12345678/Mine-Bota">
+    <a href="https://dashboard.heroku.com/new?button-url=https://github.com/CyberSamuZaX/DarkSamuZa_V4&template=https://github.com/CyberSamuZaX/DarkSamuZa_V4">
     <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
     </a>
 
@@ -90,7 +90,7 @@ Konnichiwa Senpai, I am "Pasindu" an Opensource WhatsApp bot made by <a href="ht
       
 - [Fork Main Repo](https://github.com/CyberSamuZaX/DarkSamuZa_Bot/fork)
 - Create a MongoDB URL. Need help? Watch this short 1 minute  for MongoDB URL.
-- Click on `Deploy to Repl.it` button ( `For those who didn't modified bot.`). In other case (`For those who modified bot.`) edit README.md file and chage the repo link of Repl.it deply button from `https://github.com/pasindu12345678/Mine-Bota` to your fork URL `https://github.com/<Your GitHub Username>/<Your DarkSamuZa fork repo name>`.
+- Click on `Deploy to Repl.it` button ( `For those who didn't modified bot.`). In other case (`For those who modified bot.`) edit README.md file and chage the repo link of Repl.it deply button from `https://github.com/CyberSamuZaX/DarkSamuZa_V4` to your fork URL `https://github.com/<Your GitHub Username>/<Your DarkSamuZa fork repo name>`.
 - After cloning is done in Repl.it go to `Secrets` in your Repl.it project and put these values (Mandatory).
   
 <br>
