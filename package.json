@@ -1,5 +1,5 @@
 {
-  "name": "atlas",
+  "name": "DarkSamuZa_V4",
   "version": "3.1.0",
   "description": "The future of WhatsApp bots now with plugin support.",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FantoX001/Atlas-MD.git"
+    "url": "git+https://github.com/CyberSamuZaX/DarkSamuZa_V4.git"
   },
   "keywords": [
     "bot",
@@ -19,12 +19,12 @@
     "baileys bot",
     "md bot"
   ],
-  "author": "FantoX001",
+  "author": "MrHansamala-CyberSamuZaX",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/FantoX001/Atlas-MD/issues"
+    "url": "https://github.com/CyberSamuZaX/DarkSamuZa_V4/issues"
   },
-  "homepage": "https://github.com/FantoX001/Atlas-MD#readme",
+  "homepage": "https://github.com/CyberSamuZaX/DarkSamuZa_V4#readme",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
     "@fantox01/lyrics-scraper": "^1.0.1",
