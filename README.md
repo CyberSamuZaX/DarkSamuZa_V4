@@ -11,7 +11,7 @@ Konnichiwa Senpai, I am "Pasindu" an Opensource WhatsApp bot made by <a href="ht
 
 
  
- # 🧩 Deploy Dark SamuZa
+ # 🧛🏼 Deploy Dark SamuZa 🧛🏼
      
 <details close>
 <summary>Click to choose your favourite platform to Deploy</summary>
@@ -86,7 +86,7 @@ Konnichiwa Senpai, I am "Pasindu" an Opensource WhatsApp bot made by <a href="ht
     
   
     
-## 🔶 Repl.it Deploy:
+## 🕵🏼 Repl.it Deploy:
       
 - [Fork Main Repo](https://github.com/CyberSamuZaX/DarkSamuZa_Bot/fork)
 - Create a MongoDB URL. Need help? Watch this short 1 minute  for MongoDB URL.
