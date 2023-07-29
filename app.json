@@ -39,14 +39,17 @@
     },
     "PACKNAME": {
       "description": "Put a sticker packname here. Default is: SamuZa Bot",
-      "required": false
+      "required": false,
+      "value": "DarkSamuza_V4"
     },
     "MONGODB": {
-      "description": "Put Your MongoDB URL. You can create MongoDB SamuZa URL for free."
+      "description": "Put Your MongoDB URL. You can create MongoDB SamuZa URL for free.",
+      "value": "mongodb://ugtxaomqjrykyil9xbrm:2G0OwKwjIchxPB2LLoSo@n1-c2-mongodb-clevercloud-customers.services.clever-cloud.com:27017,n2-c2-mongodb-clevercloud-customers.services.clever-cloud.com:27012/bk445kzys5mmqln?replicaSet=rs0"
     },
     "OPENAI_API": {
       "description": "Put your OpenAI API key here if you want to use ChatGPT and DALL-E.",
-      "required": false
+      "required": false,
+      "value": "your api key"
     }
   },
   "buildpacks": [
