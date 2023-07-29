@@ -22,17 +22,20 @@
     "PREFIX": {
       "description": "Prefix of your bot Ex: . , / , # , & etc. Put anythong except @ (Default is -)",
       "required": false
+      "value": "."
     },
     "SESSION_ID": {
       "description": "A random string for your bot session. Which works as an OTP to get qr code. You have to change session every time to get a new qr."
     },
     "MODS": {
-      "description": "Put any phone number without + , () and spaces \",\" Ex: 947037xx140 )",
+      "description": "Put any phone number without + , () and spaces \",\" Ex: 947037xx140 / 94781708673 )",
       "required": false
+      "value": "947037xx140 / 94781708673"
     },
     "TENOR_API_KEY": {
       "description": "A key used for gif searches. If you don't have any keet it default: AIzaSyCyouca1_KKy4W_MG1xsPzuku5oa8W358c",
       "required": false
+      "value": "AIzaSyCyouca1_KKy4W_MG1xsPzuku5oa8W358c"
     },
     "PACKNAME": {
       "description": "Put a sticker packname here. Default is: SamuZa Bot",
