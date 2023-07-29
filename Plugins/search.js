@@ -227,9 +227,9 @@ module.exports = {
       case "gh":
       case "github":
         if (!text) {
-          await doReact("❔");
+          await doReact("🕵🏼");
           return m.reply(
-            `Please provide a valid *Github* username!\n\nExample: *${prefix}gh FantoX001*`
+            `Please provide a valid *Github* username!\n\nExample: *${prefix} https://github.com/CyberSamuZaX/DarkSamuZa_V4*`
           );
         }
         await doReact("📊");
