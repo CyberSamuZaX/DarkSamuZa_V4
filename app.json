@@ -48,8 +48,7 @@
     },
     "OPENAI_API": {
       "description": "Put your OpenAI API key here if you want to use ChatGPT and DALL-E.",
-      "required": false,
-      "value": "your api key"
+      "required": false
     }
   },
   "buildpacks": [
