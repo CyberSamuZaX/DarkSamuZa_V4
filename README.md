@@ -162,9 +162,13 @@ PREFIX | Any single special character except `@` (`Ex: . or / or * or , etc.`)
 TENOR_API_KEY | Your tenor API key if you have. Or use this public one: `AIzaSyCyouca1_KKy4W_MG1xsPzuku5oa8W358c`
   
 <br>      
- 
-- 5-6 minutes later when Deploy is completed cand click on `Get QR`.
-- Scan the QR from WhatsApp ---> Linked devices ---> Link a device.
+
+ ## Developers
+
+[![CyberSamuZaX](https://github.com/CyberSamuZaX.png?size=80)](https://github.com/CyberSamuZaX) | [![MR Hansamala](https://github.com/mrhansamala.png?size=100)](https://github.com/mrhansamala) |
+----|----|
+[CyberSamuZaX](https://github.com/CyberSamuZaX) | [MR Hansamala](https://github.com/mrhansamala) |
+Bot Developer  | Developer |
       
 <br><br> 
       
